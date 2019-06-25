@@ -1,1 +1,1 @@
-Understanding the usgae of 'git status' command
+Hello, Welcome to git code repository training.
